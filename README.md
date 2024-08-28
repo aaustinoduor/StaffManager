@@ -50,8 +50,7 @@ The Staff Management System is a Django-based web application designed to manage
 
 4. **Install dependencies:**
 
-   ```bash
-   pip install -r requirements.txt
+   ```bash   pip install -r requirements.txt
    ```
 
 5. **Run migrations:**
@@ -82,7 +81,7 @@ The Staff Management System is a Django-based web application designed to manage
 
 ## Contributing
 
-Contributions are highly welcome.Should one be interested,you are encouraged to fork the repository and submit a pull request for any farther developments or enhancements.
+Contributions are highly welcome.Should one be interested,one is encouraged to fork the repository and submit a pull request for any farther developments or enhancements.
 
 ## License
 
